@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo comparar la efectividad y métricas de diferen
 
 ### Objetivos
 - Implementar el juego "Cho Dai Di" en un entorno simulado utilizando la librería OpenAI Gym.
-- Desarrollar e implementar diferentes agentes basados en algoritmos de aprendizaje por refuerzo
+- Desarrollar e implementar diferentes agentes basados en algoritmos de aprendizaje por refuerzo.
 - Evaluar el rendimiento de cada agente utilizando métricas.
 - Determinar qué algoritmos de aprendizaje por refuerzo son más efectivos en este contexto y proporcionar recomendaciones para futuras mejoras.
 
